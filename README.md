@@ -72,25 +72,38 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-
 ## 📈 Example Output
-Accuracy: ~97%
-Weighted F1-score: ~0.97
-Visual confusion matrix and top therapeutic classes
-Supports 40+ classes including:
-ANTI INFECTIVE(S)
-PAIN ANALGESICS
-GASTRO INTESTINAL
-NEURO CNS
-CARDIAC, RESPIRATORY, VACCINES, etc.
+
+- **Accuracy**: `~97%`  
+- **Weighted F1-score**: `~0.97`  
+- **Visualizations**: Confusion matrix and top therapeutic class distribution  
+- **Supports** 40+ therapeutic classes, including:
+  - ANTI INFECTIVE(S)
+  - PAIN ANALGESICS
+  - GASTRO INTESTINAL
+  - NEURO CNS
+  - CARDIAC
+  - RESPIRATORY
+  - VACCINES
+  - And more...
+
+---
 
 ## 🧠 Future Improvements
-Use deep learning (e.g., LSTM or BERT)
-Clean and merge classes using embedding clustering
-Explore additional features (e.g., chemical structure)
-##📬 Author
-Melika Abdi
 
-Feel free to connect or fork this project!
-📧 LinkedIn(www.linkedin.com/in/melika-abdi01) | 💻 GitHub(https://github.com/meliabdi/Medical-Drug-Classifier)
+- Use deep learning (e.g., **LSTM** or **BERT**)
+- Clean and merge classes using **embedding clustering**
+- Explore additional features (e.g., **chemical structure**)
+
+---
+
+## 📬 Author
+
+**Melika Abdi**
+
+Feel free to connect or fork this project!  
+
+📧 [LinkedIn](https://www.linkedin.com/in/melika-abdi01)  
+💻 [GitHub Repository](https://github.com/meliabdi/Medical-Drug-Classifier)
+
 
