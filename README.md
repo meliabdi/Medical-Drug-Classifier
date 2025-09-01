@@ -15,10 +15,10 @@ It contains 192,000+ drug records with the following information:
 - Introduction
 - Advice, safety, and administration
 
-🔗 **Download from Kaggle**:  
-[Kaggle Dataset – Medicines Information Dataset (MID)](https://www.kaggle.com/datasets/saurav9786/medicines-information-dataset)
+🔗 **Download from**:  
+[Kaggle Dataset – Medicines Information Dataset (MID)](https://www.kaggle.com/datasets/imtkaggleteam/medical-information-dataset)
 
-Once downloaded, place the file `MID.csv` in your working directory or as shown in this project.
+Once downloaded, place the `MID.csv` file in your working directory, as shown in this project.
 
 ---
 
