@@ -57,11 +57,40 @@ Once downloaded, place the `MID.csv` file in your working directory, as shown in
 ```bash
 git clone https://github.com/meliabdi/Medical-Drug-Classifier.git
 cd Medical-Drug-Classifier
+```
 
 
 2. **Create a virtual environment (optional)**
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+```
 
+
+3. **Install required Packages:**
+```bash
+pip install -r requirements.txt
+```
+
+
+## 📈 Example Output
+Accuracy: ~97%
+Weighted F1-score: ~0.97
+Visual confusion matrix and top therapeutic classes
+Supports 40+ classes including:
+ANTI INFECTIVE(S)
+PAIN ANALGESICS
+GASTRO INTESTINAL
+NEURO CNS
+CARDIAC, RESPIRATORY, VACCINES, etc.
+
+## 🧠 Future Improvements
+Use deep learning (e.g., LSTM or BERT)
+Clean and merge classes using embedding clustering
+Explore additional features (e.g., chemical structure)
+##📬 Author
+Melika Abdi
+
+Feel free to connect or fork this project!
+📧 LinkedIn(www.linkedin.com/in/melika-abdi01) | 💻 GitHub(https://github.com/meliabdi/Medical-Drug-Classifier)
 
