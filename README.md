@@ -59,3 +59,9 @@ git clone https://github.com/meliabdi/Medical-Drug-Classifier.git
 cd Medical-Drug-Classifier
 
 
+2. **Create a virtual environment (optional)**
+```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+
+
